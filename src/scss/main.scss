@@ -1,0 +1,8 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "_setting/_mixin.scss";
+@import "_setting/_variables.scss";
+@import "_setting/_fonts.scss";
+@import "_setting/_basic.scss";
+
+@import "_section/*.scss";
